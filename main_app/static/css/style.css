@@ -1,0 +1,37 @@
+.header {
+    background-color: #CCC9DC;
+    height: 50%;
+}
+
+.rounded {
+    width: 30%;
+    height: 30%;
+    margin-bottom: 6%
+}
+
+.about {
+    width: 300px;
+    margin-left: 6%;
+}
+
+.header-elements{
+    padding-top: 6%;
+    display: flex;
+    justify-content: center;
+}
+
+#task-manager {
+    width: 400px;
+    border: solid black 1px;
+    margin: 6%;
+}
+
+#portfolio-header {
+    text-align: center;
+    color: white;
+}
+
+.portfolio {
+    background-color: #324a5f;
+    height: 50%;
+}
