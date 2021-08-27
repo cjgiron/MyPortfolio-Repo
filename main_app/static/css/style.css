@@ -20,15 +20,21 @@
     justify-content: center;
 }
 
-#task-manager {
+.project-icon{
     width: 400px;
+    height: 200px;
     border: solid black 1px;
-    margin: 6%;
+    margin: 3%;
 }
 
 #portfolio-header {
+    padding: 3%;
     text-align: center;
     color: white;
+}
+
+.projects {
+    text-align: center;
 }
 
 .portfolio {
